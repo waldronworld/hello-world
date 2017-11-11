@@ -1,2 +1,5 @@
 # hello-world
-Introduction to the third planet with regards to celestial body relations within the orbit of the star named Sun of the solar system Sol within the Milky Way galaxy from which to demonstrate the ability follow the instructions seen within the "Hello World" guide found upon the guides.github.com online repository of documents of whichest are pertaining to the aforementioned online website whomest've's name that succedes the English word for a sheet or a card with projecting tab for labeling inserted in a card index to facilitate reference withinest the Uniform Resource Locator as previously mentioned within the description that you'vest'r reading
+
+Hello,
+
+I am a formless void.
